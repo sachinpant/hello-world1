@@ -1,2 +1,2 @@
 # hello-world1
-Just for the sake of starting something
+I just started on github right now and thus following the instructions as the manual suggests me. :)
